@@ -1,6 +1,5 @@
-### Hi there 👋
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v0.0.18
+### Hello man ! 👋
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/AllanBiville/AllanBiville/main/github-contribution-grid-snake.svg)
 
 <!--
 **AllanBiville/AllanBiville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
