@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello man ! 👋
   ![github contribution grid snake animation](https://raw.githubusercontent.com/AllanBiville/AllanBiville/main/github-contribution-grid-snake.svg)
 
 <!--
